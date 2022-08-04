@@ -1,0 +1,7 @@
+{
+  "name": "mplt-shell",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
